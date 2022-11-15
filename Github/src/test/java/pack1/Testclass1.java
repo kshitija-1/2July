@@ -7,8 +7,7 @@ public class Testclass1 {
 		System.out.println("TC1");
 		System.out.println("TC2");
 		System.out.println("TC3");
-		System.out.println("TC4");
-		System.out.println("TC5");
+	
 	}
 
 }
